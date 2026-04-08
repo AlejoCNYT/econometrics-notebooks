@@ -40,18 +40,6 @@ El objetivo es construir un portafolio sólido que combine teoría económica, e
 
 ---
 
-### 📂 Estructura del repositorio
-
-```
-econometrics-notebooks/
-│
-├── notebooks/
-├── data/
-└── README.md
-```
-
----
-
 ### 🚀 Cómo usar este repositorio
 
 1. Clonar el repositorio:
@@ -130,18 +118,6 @@ The goal is to build a strong portfolio combining economic theory, statistics, a
 * matplotlib
 * statsmodels
 * Google Colab
-
----
-
-### 📂 Repository structure
-
-```
-econometrics-notebooks/
-│
-├── notebooks/
-├── data/
-└── README.md
-```
 
 ---
 
